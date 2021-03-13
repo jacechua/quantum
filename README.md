@@ -1,2 +1,2 @@
 # quantum-computing
-Quantum algorithms, computing resources, and app deployment.
+Quantum algorithms, compute resources, and application deployment.
